@@ -1,0 +1,25 @@
+Othello Rules
+
+Othello is played on an 8x8 board similar to that of chess or checkers. The two players each have 32 pieces, which are white on one side and black on the other. 
+
+The game begins with each player having two pieces placed diagonally in the center of the board;
+
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0		 Consider this to be a sample board
+0 0 0 0 0 0 0 0		White Piece: 1
+0 0 0 1 2 0 0 0		Black Piece: 2
+0 0 0 2 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+
+
+White begins by placing a piece, white-side up, adjacent to a black piece and opposite another white piece, so that a line of one or more black pieces directly intervenes (horizontally, vertically or diagonally) between the two white pieces
+
+When White places a piece so that an adjacent black piece is between two whites, the black piece is "surrendered," or flipped over to white Note that these pieces may be flipped and change hands many times during a game.  
+
+You may capture one or more pieces on a given turn. Also, you may capture any number of your opponent's pieces in one or more rows diagonally, vertically and horizontally
+
+If you cannot make a legal move, you automatically pass your turn to your opponent. The computer will not allow you to make any illegal moves. 
+
+The winner is the player with the most pieces of his or her color on the board at the end of the game. You may also win by completely eradicating your opponent's color from the game board.  
