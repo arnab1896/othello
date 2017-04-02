@@ -27,3 +27,5 @@ GUI DONE
 
 I'M OPEN TO SUGGESTIONS! 
 	Plz feel free to suggest any changes I can make for this code! I would appreciate it!:)
+	
+.. image:: https://github.com/arnab1896/othello/blob/master/gameplay2.png
